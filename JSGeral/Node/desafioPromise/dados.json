@@ -1,0 +1,9 @@
+[
+  {"nome": "Julia", "Idade": 23, "Profissao": "Advogada"},
+  {"nome": "Pedro", "Idade": 27, "Profissao": "Marceneiro"},
+  {"nome": "Robson", "Idade": 36, "Profissao": "Policial"},
+  {"nome": "Afonso", "Idade": 47, "Profissao": "Juiz"},
+  {"nome": "Samantha", "Idade": 35, "Profissao": "Vendedora"},
+  {"nome": "Paula", "Idade": 27, "Profissao": "Psicologa"},
+  {"nome": "Caio", "Idade": 19, "Profissao": "Barista"}
+]
